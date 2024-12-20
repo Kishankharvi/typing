@@ -10,3 +10,7 @@ typing practice -1
 typing practice -2
 
 ![image](https://github.com/user-attachments/assets/b21f6c33-9b90-4374-a5c8-2311002cada2)
+
+
+typing practice-3
+![image](https://github.com/user-attachments/assets/804d28b5-824d-472c-9874-a8b8e4a55306)
