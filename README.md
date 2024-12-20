@@ -14,3 +14,6 @@ typing practice -2
 
 typing practice-3
 ![image](https://github.com/user-attachments/assets/804d28b5-824d-472c-9874-a8b8e4a55306)
+
+typing practice-4 
+![image](https://github.com/user-attachments/assets/55b2237b-8484-4fe4-907a-3f627c58f603)
