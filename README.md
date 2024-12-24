@@ -26,3 +26,6 @@ typing practice-5
 typing practice -6
 ![image](https://github.com/user-attachments/assets/1a4c5160-66a3-423e-95aa-1aa8b39f4fbe)
 
+
+typing practice -7
+![image](https://github.com/user-attachments/assets/cd122a01-245f-4262-a96a-2132d0bf509a)
