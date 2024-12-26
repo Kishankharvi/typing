@@ -29,3 +29,7 @@ typing practice -6
 
 typing practice -7
 ![image](https://github.com/user-attachments/assets/cd122a01-245f-4262-a96a-2132d0bf509a)
+
+
+typring practice -8
+![image](https://github.com/user-attachments/assets/83a2d294-b7c7-4b58-b453-603427edfe55)
