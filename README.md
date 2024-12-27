@@ -33,3 +33,8 @@ typing practice -7
 
 typring practice -8
 ![image](https://github.com/user-attachments/assets/83a2d294-b7c7-4b58-b453-603427edfe55)
+
+
+typing practice -9
+\![image](https://github.com/user-attachments/assets/44990abe-d908-4d3d-aadc-49a13c168f19)
+
