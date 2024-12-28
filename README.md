@@ -36,5 +36,5 @@ typring practice -8
 
 
 typing practice -9
-\![image](https://github.com/user-attachments/assets/44990abe-d908-4d3d-aadc-49a13c168f19)
+![image](https://github.com/user-attachments/assets/44990abe-d908-4d3d-aadc-49a13c168f19)
 
